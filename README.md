@@ -205,6 +205,8 @@ gulp
 - [x] 孙权 - sunquan
 - [x] 张让 - zhangrang
 - [x] 张角 - zhangjiao
+- [x] 张宝 - zhangbao
+- [x] 张梁 - zhangliang
 
 ## 意见建议
 
