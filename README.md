@@ -200,13 +200,13 @@ gulp
 
 ## 已经完成的人物数据
 
-- [x] 刘备 - liubei
-- [x] 曹操 - caocao
-- [x] 孙权 - sunquan
-- [x] 张让 - zhangrang
-- [x] 张角 - zhangjiao
-- [x] 张宝 - zhangbao
-- [x] 张梁 - zhangliang
+- [x] 刘备
+- [x] 曹操
+- [x] 孙权
+- [x] 张让
+- [x] 张角
+- [x] 张宝
+- [x] 张梁
 
 ## 意见建议
 
