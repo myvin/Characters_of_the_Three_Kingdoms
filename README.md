@@ -1,4 +1,4 @@
-# Characters_of_the_Three_Kingdoms
+# Characters_of_the_Three_Kingdoms - 三国人物结构化数据
 
 三国人物结构化数据
 
@@ -28,7 +28,7 @@
 
 ## 数据来源
 
-数据整理自 [维基百科](https://www.wikipedia.org/) 和其他网络资源。
+数据主要整理自 [维基百科](https://www.wikipedia.org/) 和其他网络资源。
 
 ## 数据示例
 
@@ -180,13 +180,17 @@
 }
 ```
 
-## 已完成人物
+## 已完成的人物数据
 
 - [x] 刘备 - liubei
 - [x] 曹操 - caocao
 - [x] 孙权 - sunquan
+- [x] 张让 - zhangrang
+- [x] 张角 - zhangjiao
 
 ## 意见建议
+
+整理自网络，且鄙人才疏学浅，难免会有疏忽错误，欢迎指正。
 
 如果你有好的建议或意见，欢迎提 issue 反馈。
 
@@ -195,11 +199,12 @@
 * Email: 851399101@qq.com
 
 ## 请喝咖啡
-如果我的项目对你有帮助，可以请我喝杯咖啡。
+
+如果我的项目对你有帮助，可以请我喝杯~~咖啡~~白开水。
 
 ### 支付宝
 
-> 省事的可以先扫码领红包，然后扫支付宝将红包支付给我（商家）。
+> 也可以先扫码领红包，然后将红包支付给我（商家）。
 
 <img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9181893579988_.pic_hd.jpg" width="300" /> <img src="https://raw.githubusercontent.com/myvin/miniprogram/master/9191893579989_.pic.jpg" width="300" />
 
