@@ -20,51 +20,71 @@
     }
     body {
       padding: 15px;
+      color: #2c3e50;
+    }
+    h1 {
+      color: #0077bb;
+      margin: 20px 0 20px;
+    }
+    h2 {
+      margin: 35px 0 20px;
+      font-size: 26px;
+    }
+    p {
+      margin:0 0 20px;
+      font-size: 16px;
     }
     ul,
     li {
       list-style-type: none;
+      margin-bottom: 20px;
     }
     ul {
       display: flex;
       align-items: center;
+      flex-wrap: wrap;
     }
     li {
-      padding: 10px 20px;
+      padding: 0 20px;
+      line-height: 1em;
       transition: .5s ease;
     }
     li:hover {
-      color: red;
+      color: #cd5c5c;
       cursor: pointer;
       transition: .5s ease;
     }
     li.active {
-      color: red;
+      color: #cd5c5c;
       transition: .5s ease;
     }
     pre {
-      outline: 1px solid #ccc;
+      border: 1px dashed #bbb;
       padding: 5px;
       margin: 5px;
       overflow: scroll;
+      color: #333;
+      background: rgba(102,128,153,.1);
     }
     .string {
-      color: green;
+      color: #080;
     }
     .number {
-      color: darkorange;
+      color: #800;
     }
     .boolean {
       color: blue;
     }
     .null {
-      color: magenta;
+      color: #008;
     }
     .key {
-      color: red;
+      color: #cd5c5c;
     }
 </style>
 <body>
+  <h1>Characters_of_the_Three_Kingdoms - 三国人物结构化数据</h1>
+  <p>三国人物结构化数据</p>
   <h2>已完成的人物数据</h2>
   <ul id='characters'>
   </ul>
@@ -84,7 +104,7 @@
     if (typeof json != 'string') {
       json = JSON.stringify(json, undefined, 2);
     }
-    json = json.replace(/&/g, '&').replace(/</g, '<').replace(/>/g, '>');
+    json = json.replace(/&/g, '&').replace(/</g, '<').replace(/>/g, '>').replace(/\'/g, '"');
     return json.replace(/("(\\u[a-zA-Z0-9]{4}|\\[^u]|[^\\"])*"(\s*:)?|\b(true|false|null)\b|-?\d+(?:\.\d*)?(?:[eE][+\-]?\d+)?)/g, function(match) {
       var cls = 'number';
       if (/^"/.test(match)) {
