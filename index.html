@@ -23,6 +23,20 @@
       padding: 15px;
       color: #2c3e50;
     }
+    .wrapper {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    .forkme {
+      position: fixed;
+      top: 0;
+      right: 0;
+    }
+    @media (max-width: 500px) {
+      .forkme {
+          display: none !important;
+      }
+    }
     h1 {
       color: #0077bb;
       margin: 20px 0 20px;
@@ -84,13 +98,18 @@
     }
 </style>
 <body>
-  <h1>Characters_of_the_Three_Kingdoms - 三国人物结构化数据</h1>
-  <p>三国人物结构化数据</p>
-  <h2>已完成的人物数据</h2>
-  <ul id='characters'>
-  </ul>
-  <pre id="result">
-  </pre>
+  <a class='forkme' href="https://github.com/myvin/Characters_of_the_Three_Kingdoms" target='_blank'>
+    <img src="./forkme_right.png" alt="fork">
+  </a>
+  <div class="wrapper">
+    <h1>Characters_of_the_Three_Kingdoms - 三国人物结构化数据</h1>
+    <p>三国人物结构化数据</p>
+    <h2>已完成的人物数据</h2>
+    <ul id='characters'>
+    </ul>
+    <pre id="result">
+    </pre>
+  </div>
 </body>
 <!-- jquery -->
 <script>
