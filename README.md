@@ -32,7 +32,21 @@
 
 ## DEMO
 
-所有已经完成的人物数据可查看 [DEMO](http://myvin.github.io/Characters_of_the_Three_Kingdoms)。
+1. 所有已经完成的人物数据可查看 [DEMO](http://myvin.github.io/Characters_of_the_Three_Kingdoms)。
+
+2. DEMO 页面使用 `ajax` 获取 `characters` 文件夹的 `json` 文件，若要本地运行 DEMO 页面，需本地启动 `server`。将项目 `clone` 到本地后，执行：
+
+```
+npm run start
+```
+
+或
+
+```
+gulp
+```
+
+然后浏览器打开 `localhost:4300` 即可。
 
 ## 数据示例
 
