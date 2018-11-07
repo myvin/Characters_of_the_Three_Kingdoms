@@ -30,6 +30,10 @@
 
 数据主要整理自 [维基百科](https://www.wikipedia.org/) 和其他网络资源。
 
+## DEMO
+
+所有已经完成的人物数据可查看 [DEMO](http://myvin.github.io/Characters_of_the_Three_Kingdoms)。
+
 ## 数据示例
 
 ```
@@ -180,7 +184,7 @@
 }
 ```
 
-## 已完成的人物数据
+## 已经完成的人物数据
 
 - [x] 刘备 - liubei
 - [x] 曹操 - caocao
