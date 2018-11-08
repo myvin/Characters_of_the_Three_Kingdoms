@@ -33,9 +33,16 @@
       right: 0;
     }
     @media (max-width: 500px) {
-      .forkme {
-          display: none !important;
+      .forkme,
+      #avatar {
+        display: none !important;
       }
+    }
+    #avatar {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 200px;
     }
     h1 {
       color: #0077bb;
@@ -73,7 +80,8 @@
       color: #cd5c5c;
       transition: .5s ease;
     }
-    pre {
+    #code {
+      position: relative;
       border: 1px dashed #bbb;
       padding: 5px;
       margin: 5px;
@@ -107,8 +115,10 @@
     <h2>已完成的人物数据</h2>
     <ul id='characters'>
     </ul>
-    <pre id="result">
-    </pre>
+    <div id='code'>
+      <!-- <pre id="result"></pre>
+        <img id='avatar' src="" alt="avatar"> -->
+    </div>
   </div>
 </body>
 <!-- jquery -->
@@ -146,12 +156,16 @@
     $.ajax({
       type: 'GET',
       url:`./characters/${name}.json`,
-      dataType: 'text',
+      dataType: 'json',
       success: function(res) {
-        $('#result').html(syntaxHighlight(res));
+        let str = `<pre id="result">${syntaxHighlight(res)}</pre>`
+        if (res.avatar) {
+          str += `<img id='avatar' src="${res.avatar}" alt="avatar">`
+        }
+        $('#code').html(str);
       },
-      fail: function(res){
-        console.log('fail: ', res)
+      error: function(res){
+        console.log('error: ', res)
       },
     });
   }
