@@ -1,51 +1,52 @@
 {
-  name: '张纯',
-  courtesyName: null,
-  pseudonym: null,
-  aliase: null,
-  infantName: null,
-  gender: 1,
-  faction: null,
-  birthdate: null,
-  birthplace: '幽州渔阳郡',
-  birthplacePresentDay: '山西潞城东北约二十公里',
-  deathdate: '189年',
-  deathplace: null,
-  deathplacePresentDay: null,
-  tenure: null,
-  position: ['中山太守', '起义军领导人'],
-  peerage: null,
-  enfeoffment: null,
-  monarch: ['汉灵帝', '起义军'],
-  posthumousName: null,
-  templeName: null,
-  genealogy: null,
-  historicalBriefIIntroduction: '东汉的中山太守。联合乌丸族的丘力居发动了叛乱。',
-  novelisticBriefIIntroduction: '在渔阳发动叛乱，遭幽州牧刘虞军所讨伐。战败后被属下所杀。',
-  family: {
-    father: {
-      character: [
+  "name": "张纯",
+  "courtesyName": null,
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张纯.jpg",
+  "faction": null,
+  "birthdate": null,
+  "birthplace": "幽州渔阳郡",
+  "birthplacePresentDay": "山西潞城东北约二十公里",
+  "deathdate": "189年",
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["中山太守", "起义军领导人"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["汉灵帝", "起义军"],
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "东汉的中山太守。联合乌丸族的丘力居发动了叛乱。",
+  "novelisticBriefIIntroduction": "在渔阳发动叛乱，遭幽州牧刘虞军所讨伐。战败后被属下所杀。",
+  "family": {
+    "father": {
+      "character": [
         {
-          name: '名不详',
-          desc: null
+          "name": "名不详",
+          "desc": null
         }
       ],
-      desc: null
+      "desc": null
     },
-    mother: {
-      character: [
+    "mother": {
+      "character": [
         {
-          name: '名不详',
-          desc: null
+          "name": "名不详",
+          "desc": null
         }
       ],
-      desc: null
+      "desc": null
     },
-    brothers: null,
-    sisters: null,
-    spouse: null,
-    sons: null,
-    daughters: null
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
   },
-  historicalEvaluations: []
+  "historicalEvaluations": []
 }

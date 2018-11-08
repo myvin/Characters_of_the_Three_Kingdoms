@@ -1,63 +1,64 @@
 {
-  name: '张角',
-  courtesyName: null,
-  pseudonym: null,
-  aliase: null,
-  infantName: null,
-  gender: 1,
-  faction: '起义军',
-  birthdate: null,
-  birthplace: '冀州钜鹿郡',
-  birthplacePresentDay: '河北平乡',
-  deathdate: '184年',
-  deathplace: '广宗',
-  deathplacePresentDay: '河北威县东',
-  tenure: null,
-  position: ['太平道首领'],
-  peerage: null,
-  enfeoffment: null,
-  monarch: null,
-  posthumousName: null,
-  templeName: null,
-  genealogy: null,
-  historicalBriefIIntroduction: '东汉末农民起义领袖。汉灵帝时期在各地传播“太平道”，发展部众至几十万，遍及青、徐、幽、冀、荆、扬、兗、豫八州。184年二月，张角发动起义，打出了“苍天已死，黄天当立”的口号，矛头直指东汉政府，史称“黄巾起义”，影响遍及全国，极大地动摇了东汉政府的统治。同年十月，张角病死，不久其直接领导的黄巾军被镇压，但其后各地起义不断，最终导致东汉灭亡。',
-  novelisticBriefIIntroduction: '原是个不第的秀才，在山中采药时遇南华老仙，得天书三卷，名为《太平要术》。张角依此书所传道术，开始散施符水，为人治病，徒众发展到数十万。张角遂起了夺取天下得野心，与兄弟张宝、张梁一起起兵造反，声势浩大，但最终被朝廷和各路豪杰镇压。张角病死，黄巾军主力随即覆灭，但仍有很多残党在各地活动。',
-  family: {
-    father: {
-      character: [
+  "name": "张角",
+  "courtesyName": null,
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张角.jpg",
+  "faction": "起义军",
+  "birthdate": null,
+  "birthplace": "冀州钜鹿郡",
+  "birthplacePresentDay": "河北平乡",
+  "deathdate": "184年",
+  "deathplace": "广宗",
+  "deathplacePresentDay": "河北威县东",
+  "tenure": null,
+  "position": ["太平道首领"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": null,
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "东汉末农民起义领袖。汉灵帝时期在各地传播“太平道”，发展部众至几十万，遍及青、徐、幽、冀、荆、扬、兗、豫八州。184年二月，张角发动起义，打出了“苍天已死，黄天当立”的口号，矛头直指东汉政府，史称“黄巾起义”，影响遍及全国，极大地动摇了东汉政府的统治。同年十月，张角病死，不久其直接领导的黄巾军被镇压，但其后各地起义不断，最终导致东汉灭亡。",
+  "novelisticBriefIIntroduction": "原是个不第的秀才，在山中采药时遇南华老仙，得天书三卷，名为《太平要术》。张角依此书所传道术，开始散施符水，为人治病，徒众发展到数十万。张角遂起了夺取天下得野心，与兄弟张宝、张梁一起起兵造反，声势浩大，但最终被朝廷和各路豪杰镇压。张角病死，黄巾军主力随即覆灭，但仍有很多残党在各地活动。",
+  "family": {
+    "father": {
+      "character": [
         {
-          name: '名不详',
-          desc: null
+          "name": "名不详",
+          "desc": null
         }
       ],
-      desc: null
+      "desc": null
     },
-    mother: {
-      character: [
+    "mother": {
+      "character": [
         {
-          name: '名不详',
-          desc: null
+          "name": "名不详",
+          "desc": null
         }
       ],
-      desc: null
+      "desc": null
     },
-    brothers: {
-      character: [
+    "brothers": {
+      "character": [
         {
-          name: '张宝',
-          desc: '二弟，黄巾起义首领之一，号称“地公将军”。'
+          "name": "张宝",
+          "desc": "二弟，黄巾起义首领之一，号称“地公将军”。"
         },
         {
-          name: '张梁',
-          desc: '三弟，黄巾起义首领之一，号称“人公将军”。'
+          "name": "张梁",
+          "desc": "三弟，黄巾起义首领之一，号称“人公将军”。"
         }
       ],
-      desc: null
+      "desc": null
     },
-    sisters: null,
-    spouse: null,
-    sons: null,
-    daughters: null
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
   },
-  historicalEvaluations: []
+  "historicalEvaluations": []
 }
