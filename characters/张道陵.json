@@ -1,0 +1,77 @@
+{
+  "name": "张道陵，初名张陵",
+  "courtesyName": "辅汉",
+  "pseudonym": "东汉",
+  "aliase": [
+    {
+      "name": "张道陵天师",
+      "desc": null
+    },
+    {
+      "name": "张天师",
+      "desc": null
+    },
+    {
+      "name": "祖天师",
+      "desc": null
+    },
+    {
+      "name": "正一真人",
+      "desc": null
+    }
+  ],
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张道陵.jpg",
+  "faction": null,
+  "birthdate": "34年",
+  "birthplace": "东汉沛国丰县",
+  "birthplacePresentDay": "江苏徐州市丰县",
+  "deathdate": "156年",
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["正一道、五斗米道创始人"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": null,
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "五斗米道的创始人。张鲁祖父。",
+  "novelisticBriefIIntroduction": "五斗米道的创始人。张鲁祖父。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": {
+      "character": [
+        {
+          "name": "张衡",
+          "desc": "张鲁之父"
+        }
+      ],
+      "desc": null
+    },
+    "daughters": null
+  },
+  "historicalEvaluations": []
+}
