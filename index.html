@@ -29,6 +29,7 @@
     }
     .forkme {
       position: fixed;
+      z-index: 3;
       top: 0;
       right: 0;
     }
@@ -40,6 +41,7 @@
     }
     #avatar {
       position: absolute;
+      z-index: 2;
       top: 0;
       right: 0;
       width: 200px;
@@ -67,7 +69,8 @@
       flex-wrap: wrap;
     }
     li {
-      padding: 0 20px;
+      text-align: center;
+      width: 5em;
       line-height: 1em;
       transition: .5s ease;
     }
@@ -85,9 +88,11 @@
       border: 1px dashed #bbb;
       padding: 5px;
       margin: 5px;
-      overflow: scroll;
       color: #333;
       background: rgba(102,128,153,.1);
+    }
+    #code .wrapper {
+      overflow: scroll;
     }
     .string {
       color: #080;
@@ -116,8 +121,7 @@
     <ul id='characters'>
     </ul>
     <div id='code'>
-      <!-- <pre id="result"></pre>
-        <img id='avatar' src="" alt="avatar"> -->
+      <div class="wrapper"></div>
     </div>
   </div>
 </body>
@@ -162,7 +166,7 @@
         if (res.avatar) {
           str += `<img id='avatar' src="${res.avatar}" alt="avatar">`
         }
-        $('#code').html(str);
+        $('#code .wrapper').html(str);
       },
       error: function(res){
         console.log('error: ', res)
