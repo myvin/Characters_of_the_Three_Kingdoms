@@ -203,30 +203,42 @@ gulp
 
 ## 已经完成的人物数据
 
-- [x] 刘备
-- [x] 诸葛亮
-- [x] 曹操
-- [x] 孙权
-- [x] 张让
-- [x] 张角
-- [x] 张宝
-- [x] 张梁
-- [x] 张飞
-- [x] 张钧
-- [x] 张举
-- [x] 张纯
-- [x] 张济
-- [x] 张辽
-- [x] 张郃
-- [x] 张邈
-- [x] 张超
-- [x] 张杨
-- [x] 张虎
-- [x] 张统
-- [x] 张闿
-- [x] 张燕
-- [x] 张昭
-- [x] 张纮
+所有已经完成的人物数据可查看 [DEMO](http://myvin.github.io/Characters_of_the_Three_Kingdoms)。
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">刘备</td>
+      <td align="center" valign="middle">诸葛亮</td>
+      <td align="center" valign="middle">曹操</td>
+      <td align="center" valign="middle">孙权</td>
+      <td align="center" valign="middle">张让</td>
+      <td align="center" valign="middle">张角</td>
+      <td align="center" valign="middle">张宝</td>
+      <td align="center" valign="middle">张梁</td>
+      <td align="center" valign="middle">张飞</td>
+      <td align="center" valign="middle">张钧</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">张举</td>
+      <td align="center" valign="middle">张纯</td>
+      <td align="center" valign="middle">张济</td>
+      <td align="center" valign="middle">张辽</td>
+      <td align="center" valign="middle">张郃</td>
+      <td align="center" valign="middle">张邈</td>
+      <td align="center" valign="middle">张超</td>
+      <td align="center" valign="middle">张杨</td>
+      <td align="center" valign="middle">张虎</td>
+      <td align="center" valign="middle">张统</td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle">张闿</td>
+      <td align="center" valign="middle">张燕</td>
+      <td align="center" valign="middle">张昭</td>
+      <td align="center" valign="middle">张纮</td>
+    </tr>
+  </tbody>
+</table>
 
 ## 意见建议
 
