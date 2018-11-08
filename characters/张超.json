@@ -1,0 +1,62 @@
+{
+  "name": "张超",
+  "courtesyName": "孟高",
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "faction": "魏国",
+  "birthdate": null,
+  "birthplace": "兖州东平郡寿张县",
+  "birthplacePresentDay": "山东东平",
+  "deathdate": "195年",
+  "deathplace": "雍丘",
+  "deathplacePresentDay": "河南杞县",
+  "tenure": null,
+  "position": null,
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["曹操", "吕布"],
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "张超为广陵郡太守，征用名士臧洪、袁绥等。初平元年（190年）正月，与兄张邈会同其他诸侯参加讨伐董卓同盟。张超推荐臧洪为诸侯同盟宣誓者。兴平元年（194年）夏，曹操讨陶谦，远征徐州。张超、张邈和陈宫共谋推戴吕布为兖州牧，攻打曹操的根据地兖州。兴平二年（195年）春，曹操回军，吕布渐渐处于劣势。同年八月，张超在兄长命令下保家族守雍丘笼城，曹操猛攻雍丘。十二月，雍丘陷落，张超自杀（一说被曹操捕杀）。张邈、张超三族被灭。张邈向袁术求救途中，被部下杀害。",
+  "novelisticBriefIIntroduction": "在小说《三国志通俗演义》里，称张超字孟高，生平与正史大体，武艺超群，威仪出众，为十八路诸侯的第十一镇，讨伐董卓失败后，随张邈迎吕叛曹操，雍丘城破后，张超自刎。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "brothers": {
+      "character": [
+        {
+          "name": "张邈",
+          "desc": "张超之兄"
+        }
+      ],
+      "desc": null
+    },
+    sisters: null,
+    spouse: null,
+    sons: null,
+    daughters: null
+  },
+  historicalEvaluations: [
+    "徐众：袁、曹方睦，夹辅王室，吕布反覆无义，志在逆乱，而邈、超擅立布为州牧，其於王法，乃一罪人也。",
+    "王夫之：张邈兄弟党吕布以夺曹操之兖州，其时天子蒙尘，超无能恤，彼于袁、曹均耳。"
+  ]
+}
