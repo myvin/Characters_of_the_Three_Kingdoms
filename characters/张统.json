@@ -1,0 +1,52 @@
+{
+  "name": "张统",
+  "courtesyName": null,
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张统.jpg",
+  "faction": ["魏国"],
+  "birthdate": null,
+  "birthplace": "并州雁门郡马邑县",
+  "birthplacePresentDay": "山西省朔州市朔城区大夫庄",
+  "deathdate": null,
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": null,
+  "peerage": ["晋阳侯"],
+  "enfeoffment": null,
+  "monarch": null,
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "张辽之孙，其父张虎去世后，张统继承了晋阳侯的爵位。",
+  "novelisticBriefIIntroduction": "",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "张虎",
+          "desc": "张辽之子"
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": []
+}
