@@ -77,6 +77,8 @@ gulp
   "infantName": null,
   // 性别：1 男，2 女
   "gender": 1,
+  // 头像
+  "avatar": "./images/avatars/刘备.jpg",
   // 所属势力
   "faction": "蜀汉",
   // 出生日期
