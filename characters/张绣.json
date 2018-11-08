@@ -1,0 +1,71 @@
+{
+  "name": "张绣",
+  "courtesyName": null,
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张绣.jpg",
+  "faction": "魏国",
+  "birthdate": null,
+  "birthplace": "凉州武威郡祖厉县",
+  "birthplacePresentDay": "甘肃省白银市靖远县西南",
+  "deathdate": "207年",
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["破羌将军"],
+  "peerage": ["宣威侯"],
+  "enfeoffment": null,
+  "monarch": ["董卓", "曹操"],
+  "posthumousName": ["定侯"],
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "曹操之破羌将军。族父济，汉骠骑将军。边章、韩遂为乱凉州，金城麹胜袭杀祖厉长刘隽。绣为县吏，间伺杀胜，郡内义之。遂招合少年，为邑中豪杰。董卓败，济与李傕等击吕布，为卓报仇。绣随济，以军功稍迁至建忠将军，封宣威侯。济为流矢所中死，绣领其众，屯宛，与刘表合。太祖南征，军淯水，绣等举众降。太祖纳济妻，绣恨之。太祖闻其不悦，密有杀绣之计。计漏，绣掩袭太祖。太祖军败，二子没。绣还保穰，太祖比年攻之，不克。太祖拒袁绍于官渡，绣从贾诩计，复以众降。绣至，太祖执其手，与欢宴，为子均取绣女，拜扬武将军。官渡之役，绣力战有功，迁破羌将军。从破袁谭于南皮，复增邑。从征乌丸于柳城，未至。五官将丕数因请会，发怒曰：“君杀吾兄，何忍持面视人邪！”绣心不自安，乃自杀。谥曰定侯，子泉嗣。",
+  "novelisticBriefIIntroduction": "曹操之扬武将军。从父济，汉骠骑将军。济为流矢所中死，绣领其众，屯宛，与刘表合。后太祖南征，绣从贾诩计，降。因太祖纳济妻邹氏，绣恨之，引军夜袭，太祖军败，典韦、长子昂、侄安民没。太祖复征之，绣用贾诩计，大胜之。官渡之战前，绣复降太祖，以为扬武将军。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": {
+      "character": [
+        {
+          "name": "张泉",
+          "desc": "张绣的儿子，后来因跟随魏讽谋反而被处死。"
+        }
+      ],
+      "desc": null
+    },
+    "daughters": {
+      "character": [
+        {
+          "name": "张氏",
+          "desc": "张绣的女儿，后来嫁给曹操的儿子曹均。"
+        }
+      ],
+      "desc": null
+    }
+  },
+  "historicalEvaluations": [
+    "陈寿：“燕、绣、鲁舍群盗，列功臣，去危亡，保宗祀，则于彼为愈焉。”（《三国志·魏书·二公孙陶四张传第八》）",
+    "贾诩：“将军（指张绣）虽善用兵，非曹公敌也。军虽新退，曹公必自断后；追兵虽精，将既不敌，彼士亦锐，故知必败。曹公攻将军无失策，力未尽而退，必国内有故；已破将军，必轻军速进，纵留诸将断后，诸将虽勇，亦非将军敌，故虽用败兵而战必胜也。”（《三国志·贾诩传》）"
+  ]
+}
