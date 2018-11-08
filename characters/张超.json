@@ -5,6 +5,7 @@
   "aliase": null,
   "infantName": null,
   "gender": 1,
+  "avatar": "./images/avatars/张超.jpg",
   "faction": "魏国",
   "birthdate": null,
   "birthplace": "兖州东平郡寿张县",
@@ -50,12 +51,12 @@
       ],
       "desc": null
     },
-    sisters: null,
-    spouse: null,
-    sons: null,
-    daughters: null
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
   },
-  historicalEvaluations: [
+  "historicalEvaluations": [
     "徐众：袁、曹方睦，夹辅王室，吕布反覆无义，志在逆乱，而邈、超擅立布为州牧，其於王法，乃一罪人也。",
     "王夫之：张邈兄弟党吕布以夺曹操之兖州，其时天子蒙尘，超无能恤，彼于袁、曹均耳。"
   ]
