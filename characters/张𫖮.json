@@ -1,0 +1,52 @@
+{
+  "name": "张𫖮",
+  "courtesyName": null,
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": null,
+  "faction": null,
+  "birthdate": null,
+  "birthplace": null,
+  "birthplacePresentDay": null,
+  "deathdate": null,
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["袁尚武将"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["袁尚", "曹操"],
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "建安九年（204年），袁尚再攻平原，曹操趁机攻邺。袁尚领兵来救，马延、张𫖮临阵倒戈，令袁尚军溃不成军，期后下落不明。",
+  "novelisticBriefIIntroduction": "袁尚武将，后来降曹。《三国演义》加插一段二人在曹操赤壁之战败阵时为甘宁斩杀一幕。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": []
+}
