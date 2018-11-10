@@ -248,8 +248,8 @@ gulp
       <td align="center" valign="middle">张南</td>
       <td align="center" valign="middle">张武</td>
       <td align="center" valign="middle">张温</td>
-      <td align="center" valign="middle"><张温/td>
-      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle">张温</td>
+      <td align="center" valign="middle">张允</td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
