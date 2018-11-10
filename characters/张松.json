@@ -1,0 +1,71 @@
+{
+  "name": "张松",
+  "courtesyName": "子乔",
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张松.jpg",
+  "faction": null,
+  "birthdate": null,
+  "birthplace": "蜀郡成都",
+  "birthplacePresentDay": "四川成都",
+  "deathdate": "212年",
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["益州别驾"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": null,
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "刘璋的部下，益州别驾，为人短小，放荡不治节操，然而很有才干；他认为刘璋暗弱，在他手下不足以发挥自己的才能，经常叹息。赤壁之战前夕，张松奉命出使结交曹操，不被礼遇，因此怀恨曹操，劝刘璋改为结交刘备。进而，张松与好友法正一同密谋出卖刘璋，将益州献给刘备，劝说刘璋迎接刘备入蜀。后来，刘备假意离开益州，张松写信劝阻，被兄长张肃发现并告发，被杀。",
+  "novelisticBriefIIntroduction": "《三国演义》中的张松字永年，是与蜀中另一位名臣彭羕的字混淆所致。蜀郡人，刘璋的部下，益州别驾，于第六十回登场。张松长得额䦆头尖，鼻偃齿露，身短不满五尺，言语有若铜钟，但很有才干，可过目不忘。张松奉命出使许都，结果不被曹操礼遇，言语顶撞曹操，被乱棍打出。张松归蜀时途经荆州，为刘备所厚待，于是将西川地理图献予刘备，劝刘备取益州，愿为内应，并派好友孟达、法正帮助刘备。后来，刘备入蜀后假意归还，张松信以为真，写信劝阻，被兄长张肃发现，被告发，全家被杀。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "brothers": {
+      "character": [
+        {
+          "name": "张肃",
+          "desc": "兄，字君矫，广汉太守。"
+        }
+      ],
+      "desc": null
+    },
+    "sisters": null,
+    "spouse": null,
+    "sons": {
+      "character": [
+        {
+          "name": "张表",
+          "desc": "字伯达，在马忠之后接任庲降都督。《华阳国志校补图注》的注里说他原是张肃之子，因为张肃告密使得张松一家被杀，刘备厌恶张肃而使张表为张松之子奉张松之后。"
+        }
+      ],
+      "desc": null
+    },
+    "daughters": null
+  },
+  "historicalEvaluations": [
+    "司马光：“益州别驾张松与正善，自负其才，忖璋不足与有为，常窃叹息。”（《资治通鉴·卷六十六》）",
+    "蔡东藩：“但张松法正并为璋臣，璋可辅则辅之，不可辅则去之；必卖主而求荣，殊非人臣之道，松之受诛宜也！法正特幸而脱祸耳，是可为后世之不忠者戒焉。”“食禄应思勉效忠，如何卖主妄邀功？西川未去头先落，奸猾由来少善终。”（《后汉演义》）"
+  ]
+}
