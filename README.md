@@ -30,9 +30,9 @@
 
 数据主要整理自 [维基百科](https://www.wikipedia.org/) 、[百度百科](https://baike.baidu.com/) 和其他网络资源。
 
-## DEMO
+## 数据展示 DEMO
 
-1. 所有已经完成的人物数据可查看 [DEMO](http://myvin.github.io/Characters_of_the_Three_Kingdoms)。
+1. 所有已经完成的人物数据可查看数据展示 [DEMO](http://myvin.github.io/Characters_of_the_Three_Kingdoms)。
 
 2. DEMO 页面使用 `ajax` 获取 `characters` 文件夹的 `json` 文件，若要本地运行 DEMO 页面，需本地启动 `server`。将项目 `clone` 到本地后，执行：
 
