@@ -1,0 +1,62 @@
+{
+  "name": "张肃",
+  "courtesyName": "君矫",
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张肃.jpg",
+  "faction": "刘璋割据军阀",
+  "birthdate": null,
+  "birthplace": "蜀郡成都",
+  "birthplacePresentDay": "四川成都",
+  "deathdate": null,
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["广汉太守"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["刘璋", "刘焉"],
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "张肃，字君矫，张松的兄长，蜀郡乃至益州世家大族，益州别驾从事，刘璋的部下。长得很伟岸，气度威严。曾奉命出使结交曹操，被辟为丞相府椽，拜广汉太守。后来，他发现弟弟张松密谋卖主，联络刘备，害怕牵连自己，于是告发，张松因此被杀。刘备入蜀后曾效命于帐下，后弃用。",
+  "novelisticBriefIIntroduction": "张肃，张松的兄长，广汉太守，刘璋的部下，于《三国演义》第62回登场。张肃发现弟弟张松密谋卖主，联络刘备，害怕牵连自己，于是告发，张松因此被杀。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "brothers": {
+      "character": [
+        {
+          "name": "张松",
+          "desc": "刘璋属下大臣。为了祖止张鲁进攻蜀地，欲使刘备替代软弱的刘璋为蜀主。但是，计划败露，被视同叛臣处斩。"
+        }
+      ],
+      "desc": null
+    },
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": [
+    "《益部耆旧杂记》：张肃有威仪，容貌甚伟。"
+  ]
+}
