@@ -1,0 +1,80 @@
+{
+  "name": "张苞",
+  "courtesyName": null,
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张苞.jpg",
+  "faction": "蜀",
+  "birthdate": null,
+  "birthplace": "幽州涿郡涿县",
+  "birthplacePresentDay": "河北省涿州市",
+  "deathdate": null,
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": null,
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["刘备"],
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "张苞，字兴国，三国时代的蜀汉将领张飞的长子，早殁。正史上对于张苞几乎没有任何其它记述。因张飞西乡侯爵位传于次子张绍，张苞很可能死于父亲张飞之前。",
+  "novelisticBriefIIntroduction": "小说《三国演义》将张苞描写成如其父张飞般勇猛的将领，并使用父亲的家传蛇矛为兵器，与关羽之子关兴结义，随刘备讨伐东吴；后来随同诸葛亮北伐曹魏，被派与姜维、王平、关兴攻击郭淮、孙礼等将。郭淮，孙礼不敌爬山弃马，张苞追击二人，不慎坠落山崖，伤重不治而亡。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "张飞",
+          "desc": "三国时代蜀汉重要将领"
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "夏侯氏",
+          "desc": "嫡母，夏侯渊之侄女。十三、四岁时，出城砍柴时，被张飞捉到，纳为夫人。夏侯渊在与蜀汉交战中战死后，她将其下葬。未知是否张苞生母。"
+        }
+      ],
+      "desc": null
+    },
+    "brothers": {
+      "character": [
+        {
+          "name": "张绍",
+          "desc": "张苞之弟，官至侍中尚书仆射。"
+        }
+      ],
+      "desc": null
+    },
+    "sisters": {
+      "character": [
+        {
+          "name": "敬哀皇后",
+          "desc": "张苞长妹，刘禅之妻。先被纳为刘禅之妃。后立为皇后，号敬哀皇后。238年卒，葬南陵。"
+        },
+        {
+          "name": "张皇后",
+          "desc": "张苞次妹，刘禅之妻。其姊敬哀皇后死后，于238年正月立为皇后。蜀汉灭亡后，随刘禅到洛阳。"
+        }
+      ],
+      "desc": null
+    },
+    "spouse": null,
+    "sons": {
+      "character": [
+        {
+          "name": "张遵",
+          "desc": "张苞之子，为尚书。魏灭蜀之战时，随诸葛瞻守于绵竹关，与邓艾交战，战死。"
+        }
+      ],
+      "desc": null
+    },
+    "daughters": null
+  },
+  "historicalEvaluations": []
+}
