@@ -1,0 +1,54 @@
+{
+  "name": "张遵",
+  "courtesyName": null,
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张遵.jpg",
+  "faction": "蜀",
+  "birthdate": null,
+  "birthplace": "幽州涿郡",
+  "birthplacePresentDay": "河北保定市涿州",
+  "deathdate": "263年",
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["尚书"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["刘禅"],
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "张遵，张飞之孙、张苞之子，官至蜀尚书，随诸葛瞻与邓艾在绵竹交战，战死。",
+  "novelisticBriefIIntroduction": "张遵，蜀尚书，诸葛瞻的部下，三国演义第117回登场。张遵随诸葛瞻镇守绵竹，于诸葛瞻父子战死后，与李球，黄崇各率领一支部队突入魏将邓艾军，战死。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "张苞",
+          "desc": "张飞之子"
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "名不详",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": [
+    "毛宗岗：傅佥可以愧蒋舒，三人又可以愧马邈。"
+  ]
+}
