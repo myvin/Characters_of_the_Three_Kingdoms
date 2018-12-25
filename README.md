@@ -48,6 +48,10 @@ gulp
 
 然后浏览器打开 `localhost:4300` 即可。
 
+3. 图例
+
+<img src="images/screenshots/screenshot.gif" alt="screenshot">
+
 ## 数据示例
 
 ```
