@@ -22,10 +22,6 @@
 
 * 需求N：...
 
-## 有了数据能干嘛
-
-有了数据，除了不能上天入地，剩下的就看少年你自己的活泼思想了。
-
 ## 数据来源
 
 数据主要整理自 [维基百科](https://www.wikipedia.org/) 、[百度百科](https://baike.baidu.com/) 和其他网络资源。
@@ -51,6 +47,10 @@ gulp
 3. 图例
 
 <img src="images/screenshots/screenshot.gif" alt="screenshot">
+
+## Contribute
+
+在 `/characters/` 下修改、添加相关人物的 `json` 文件即可，如果有头像，将头像文件放到 `/images/avatars/` 下即可，同时在 `README.md` 和 `index.html` 中添加人物备注。如果有重名的人物，可在人名后添加数字以示区别。
 
 ## 数据示例
 
