@@ -34,9 +34,12 @@
       right: 0;
     }
     @media (max-width: 500px) {
-      .forkme,
+      /*.forkme,
       #avatar {
         display: none !important;
+      }*/
+      #avatar {
+        position: relative !important;
       }
     }
     #avatar {
@@ -163,10 +166,11 @@
       url:`./characters/${name}.json`,
       dataType: 'json',
       success: function(res) {
-        let str = `<pre id="result">${syntaxHighlight(res)}</pre>`
+        let str = ''
         if (res.avatar) {
           str += `<img id='avatar' src="${res.avatar}" alt="avatar">`
         }
+        str += `<pre id="result">${syntaxHighlight(res)}</pre>`
         $('#code .wrapper').html(str);
       },
       error: function(res){
