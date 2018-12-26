@@ -1,0 +1,47 @@
+{
+  "name": "张悌",
+  "courtesyName": "巨先",
+  "pseudonym": null,
+  "aliase": [
+    {
+      "name": "张巨先",
+      "desc": null
+    }
+  ],
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张悌.jpg",
+  "faction": "东吴",
+  "birthdate": null,
+  "birthplace": "荆州襄阳郡",
+  "birthplacePresentDay": "湖北省襄阳市",
+  "deathdate": "280年3月",
+  "deathplace": "牛渚",
+  "deathplacePresentDay": "安徽省当涂县北",
+  "tenure": null,
+  "position": ["屯骑校尉", "军师", "丞相"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["孙休", "孙皓"],
+  "posthumousName": ["山都侯"],
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "少有名理，孙休时为屯骑校尉。魏伐蜀，悌论以“蜀阉宦专朝，国劳不备。必为魏所灭。”果如是。后拜丞相。晋伐吴，悌督沈莹、诸葛靓等率众三万渡江逆之。所领奋勇死战，无去意。军败，为王浑军所杀。",
+  "novelisticBriefIIntroduction": "《三国演义》中，张悌于第一百二十回登场，其事迹大体和历史相符合。小说中提有赞诗一首：杜预巴山建大旗，江东张悌死忠时。已拼王气南中尽，不忍偷生负所知。",
+  "family": {
+    "father": null,
+    "mother": null,
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": [
+    "陆凯：“姚信、楼玄、贺邵、张悌、郭逴、薛莹、滕脩及族弟喜、抗，或清白忠勤，或姿才卓茂，皆社稷之桢干，国家之良辅。”（《三国志·吴书·潘濬陆凯传第十六》）",
+    "《吴录》：“悌少知名，及处大任，希合时趣，将护左右，清论讥之。”",
+    "《襄阳耆旧记》：“少有名理。”  ",
+    "周礼：“颠危国祚势难支，江左全收大将旗。张悌死忠怀食禄，为臣到此是男儿。”",
+    "《三国演义》：“杜预巴山见大旗，江东张悌死忠时。已拚王气南中尽，不忍偷生负所知。”"
+  ]
+}
