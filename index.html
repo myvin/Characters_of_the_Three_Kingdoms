@@ -21,10 +21,13 @@
       word-wrap: break-word;
     }
     body {
-      padding: 15px;
       color: #2c3e50;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
     }
     .wrapper {
+      flex: 1;
       max-width: 900px;
       margin: 0 auto;
     }
@@ -50,13 +53,16 @@
       right: 0;
       width: 200px;
     }
-    h1 {
-      color: #0077bb;
-      margin: 20px 0 20px;
+    .title {
+      padding: 30px 0;
     }
-    h2 {
-      margin: 35px 0 20px;
-      font-size: 26px;
+    .title h1 {
+      font-size: 2em;
+    }
+    .title h2 {
+      font-size: 1.4em;
+      font-weight: lighter;
+      color: #666;
     }
     p {
       margin:0 0 20px;
@@ -65,19 +71,23 @@
     ul,
     li {
       list-style-type: none;
-      margin-bottom: 20px;
     }
     ul {
       display: flex;
       /*justify-content: center;*/
       align-items: center;
       flex-wrap: wrap;
+      max-height: 14.4em;
+      overflow: scroll;
+      background: #eee;
+      margin-bottom: 20px;
     }
     li {
       text-align: center;
       width: 5em;
       line-height: 1em;
       transition: .5s ease;
+      padding: 0.6em 0;
     }
     li:hover {
       color: #cd5c5c;
@@ -92,9 +102,9 @@
       position: relative;
       border: 1px dashed #bbb;
       padding: 5px;
-      margin: 5px;
       color: #333;
       background: rgba(102,128,153,.1);
+      margin-bottom: 40px;
     }
     #code .wrapper {
       overflow: scroll;
@@ -114,21 +124,43 @@
     .key {
       color: #cd5c5c;
     }
+    footer {
+      color: #fafafa;
+      background-color: #333;
+      text-align: center;
+      padding: 15px 0;
+    }
+    footer p {
+      font-size: 12px;
+      margin: 0;
+    }
+    footer a {
+      font-size: 12px;
+      color: currentColor;
+      text-decoration: none;
+      border-bottom: 1px dotted currentColor;
+    }
 </style>
 <body>
   <a class='forkme' href="https://github.com/myvin/Characters_of_the_Three_Kingdoms" target='_blank'>
     <img src="./forkme_right.png" alt="fork">
   </a>
   <div class="wrapper">
-    <h1>Characters_of_the_Three_Kingdoms - 三国人物结构化数据</h1>
-    <p>三国人物结构化数据</p>
-    <h2>已完成的人物数据</h2>
+    <div class="title">
+      <h1>Characters_of_the_Three_Kingdoms</h1>
+      <h2>三国人物结构化数据</h2>
+    </div>
+    <p>已完成的人物数据：</p>
     <ul id='characters'>
     </ul>
     <div id='code'>
       <div class="wrapper">数据展示区</div>
     </div>
   </div>
+  <footer>
+    <p><a href="https://github.com/myvin/Characters_of_the_Three_Kingdoms" title='Characters_of_the_Three_Kingdoms - 三国人物结构化数据' target="_blank">Characters_of_the_Three_Kingdoms - 三国人物结构化数据</a> made by <a href="https://github.com/myvin" title="myvin" target="_blank">myvin</a>
+    </p>
+  </footer>
 </body>
 <!-- jquery -->
 <script>
