@@ -1,0 +1,50 @@
+{
+  "name": "张俭",
+  "courtesyName": "元节",
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/张俭.jpg",
+  "faction": "东汉",
+  "birthdate": "115",
+  "birthplace": "山阳郡高平县",
+  "birthplacePresentDay": "山东省邹城",
+  "deathdate": "198",
+  "deathplace": "许都",
+  "deathplacePresentDay": "许昌",
+  "tenure": null,
+  "position": ["山阳东部督邮", "卫尉"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["汉桓帝", "汉献帝"],
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "东汉时期名士，江夏八俊之一。因党锢之祸，被迫逃亡，人甚重之，众多门阀名士因收留他而获罪被杀，包含孔融之兄长孔褒。",
+  "novelisticBriefIIntroduction": "《三国演义》第六回：“ 荆州 刺史 刘表 ，字 景升 ， 山阳 高平 人也，乃 汉 室宗亲；幼好结纳，与名士七人为友，时号‘江夏八俊’。”",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "张成",
+          "desc": "曾任江夏太守"
+        }
+      ],
+      "desc": null
+    },
+    "mother": null,
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": [
+    "李笃：“张俭知名天下，而亡非其罪。纵俭可得，宁忍执之乎？”",
+    "孔融《卫尉张俭碑铭》：“桓桓我君，应天淑灵。皓素其质，允迪忠贞。肆志直道，进不为荣，赴戟骄臣，发如震霆。凌刚摧坚，视危如宁。圣主克爱，命作喉唇。” [8] ",
+    "范晔《后汉书》：“①夫上好则下必甚，矫枉故直必过，其理然矣。若范滂、张俭之徒，清心忌恶，终陷党议，不其然乎？”“②昔魏齐违死，虞卿解印；季布逃亡，朱家甘罪。而张俭见怒时王，颠沛假命，天下闻其风者，莫不怜其壮志，而争为之主。至乃捐城委爵、破族屠身，盖数十百所，岂不贤哉！然俭以区区一掌，而欲独堙江河，终婴疾甚之乱，多见其不知量也。”“③渭以泾浊，玉以砾贞。物性既区，嗜恶从形。兰莸无并，销长相倾。徒恨芳膏，煎灼灯明。”",
+    "刘祁：“及桓、灵之世，朝政淆乱，奸臣擅权，士风激厉，以敢为敢言相尚，故争树名节，袁安、杨震、李固、杜乔、陈蕃之徒抗于朝，郭泰、范滂、岑晊、张俭之徒议于野，国势虽亡，而公议具存，犹能使乱臣贼子有所畏忌。”",
+    "谭嗣同：“望门投止思张俭，忍死须臾待杜根。”"
+  ]
+}
