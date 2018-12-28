@@ -1,0 +1,38 @@
+{
+  "name": "张津",
+  "courtesyName": "子云",
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": null,
+  "faction": "东汉",
+  "birthdate": null,
+  "birthplace": "荆州南阳郡",
+  "birthplacePresentDay": "河南南阳市",
+  "deathdate": null,
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["交阯刺史", "交州牧"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["汉灵帝", "汉献帝"],
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "出身于荆州南阳郡的东汉末期官员，官至交州牧[2][注 1]。灵帝驾崩之后，在京城生活的他，成为让何进和袁绍在未来规划除掉宦官过程的关键人物。接着，受遣到京城以外地带，先后担任交阯刺史和交州牧。最后，被部领杀害而死。关于正史记载方面，《三国志》和《后汉书》皆描述其生平，却无单篇为他而撰的传记。",
+  "novelisticBriefIIntroduction": "张昭等数十人连名作状，拜求孙策，乞保于神仙。策曰：“公等皆读书人，何不达理？昔交州刺史张津听信邪教，鼓瑟焚香，常以红帕裹头，自称可助出军之威，后竟为敌军所杀。此等事甚无益，诸君自未悟耳。吾欲杀于吉，正思禁邪觉迷也。”",
+  "family": {
+    "mother": null,
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": [
+    "《三国志•吴书一•孙破虏讨逆传•孙策》裴松之注引《江表传》：“诸将复连名通白事陈乞之，策曰：‘昔南阳张津为交州刺史，舍前圣典训，废汉家法律，尝著绛帕头，鼓琴烧香，读邪俗道书，云以助化，卒为南夷所杀。此甚无益，诸君但未悟耳。’”",
+    "《三国志•吴书八•张严程阚薛传•薛琮》：“吕岱从交州召出，综惧继岱者非其人，上疏曰：‘.......次得南阳张津，与荆州牧刘表为隙，兵弱敌彊，岁岁兴军，诸将厌患，去留自在。津小检摄，威武不足，为所陵侮，遂至杀没。.......’”"
+  ]
+}
