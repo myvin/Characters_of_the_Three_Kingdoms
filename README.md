@@ -291,7 +291,7 @@ gulp
       <td align="center" valign="middle">张俭</td>
       <td align="center" valign="middle">张承</td>
       <td align="center" valign="middle">张承</td>
-      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle">张世平</td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
     </tr>
