@@ -1,0 +1,60 @@
+{
+  "name": "张承",
+  "courtesyName": "公先",
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": null,
+  "faction": "魏国",
+  "birthdate": null,
+  "birthplace": "河内脩武",
+  "birthplacePresentDay": "河南获嘉",
+  "deathdate": null,
+  "deathplace": "长安",
+  "deathplacePresentDay": "长安",
+  "tenure": null,
+  "position": ["议郎", "伊阙都尉"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["曹操"],
+  "posthumousName": null,
+  "templeName": null,
+  "genealogy": null,
+  "historicalBriefIIntroduction": "正史《三国志》记载：魏国初建，承以丞相参军祭酒领赵郡太守，政化大行。太祖将西征，徵承参军事，至长安，病卒。",
+  "novelisticBriefIIntroduction": null,
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "张延",
+          "desc": "汉初三杰之一留侯张良之后。中平二年五月为太尉。"
+        }
+      ],
+      "desc": null
+    },
+    "mother": null,
+    "brothers": {
+      "character": [
+        {
+          "name": "张范",
+          "desc": "西汉留侯张良之后，司徒张歆之孙，太尉张延之子。出身于名门世家，后来成为东汉末年曹操帐下官员。性格恬静乐道，不爱荣华、名利，他不追求官职，喜欢帮助穷人，家无余财，内外的穷人、孤寡都十分敬重。对于外来所赠更始终不用，当张范死去后，将其全部归还。"
+        }
+      ],
+      "desc": null
+    },
+    "sisters": null,
+    "spouse": null,
+    "sons": {
+      "character": [
+        {
+          "name": "张戬",
+          "desc": "三国志-卷十一：范子陵及承子戬为山东贼所得，范直诣贼请二子，贼以陵还范。范谢曰“诸君相还儿厚矣。夫人情虽爱其子，然吾怜戬之小，请以陵易之”贼义其言，悉以还范。"
+        }
+      ],
+      "desc": null
+    },
+    "daughters": null
+  },
+  "historicalEvaluations": null
+}
