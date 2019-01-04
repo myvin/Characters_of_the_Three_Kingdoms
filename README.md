@@ -295,6 +295,18 @@ gulp
       <td align="center" valign="middle">张津</td>
       <td align="center" valign="middle">张弥</td>
     </tr>
+    <tr>
+      <td align="center" valign="middle">刘宏</td>
+      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle"></td>
+    </tr>
   </tbody>
 </table>
 
