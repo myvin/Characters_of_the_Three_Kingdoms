@@ -111,8 +111,6 @@ gulp
   "posthumousName": ["昭烈皇帝"],
   // 庙号
   "templeName": ["烈祖"],
-  // 世系、氏族
-  "genealogy": null,
   // 历史上的简介
   "historicalBriefIIntroduction": "蜀汉的开国皇帝，相传是汉景帝之子中山靖王刘胜的后代...",
   // 演义上的简介
