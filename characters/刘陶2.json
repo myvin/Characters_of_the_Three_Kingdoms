@@ -1,0 +1,45 @@
+{
+  "name": "刘陶",
+  "courtesyName": "季治",
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": null,
+  "faction": "魏国",
+  "birthdate": "255",
+  "birthplace": "淮南成德",
+  "birthplacePresentDay": "安徽省寿县南",
+  "deathdate": null,
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["选部郎", "平原太守"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["曹爽"],
+  "posthumousName": null,
+  "templeName": null,
+  "historicalBriefIIntroduction": "《三国志·刘晔传》裴松之注引《傅子》：陶字季冶，善名称，有大辩。曹爽时为选部郎，邓飏之徒称之以为伊吕。当此之时，其人意陵青云，谓玄曰：“仲尼不圣。何以知其然？智者图国；天下群愚，如弄一丸于掌中，而不能得天下。”玄以其言大惑，不复详难也。谓之曰：“天下之质，变无常也。今见卿穷！”爽之败，退居里舍，乃谢其言之过。",
+  "novelisticBriefIIntroduction": null,
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "刘晔",
+          "desc": "曹操谋士。经郭嘉举荐给曹操，他屡献妙计，对天下形势的发展往往一语中的。对袁绍作战时提出用发石车，击退了敌人来自营楼的攻击。刘晔历仕数朝，是曹魏的三朝元老。"
+        }
+      ],
+      "desc": null
+    },
+    "mother": null,
+    "brothers": null,
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": [
+    "裴松之：善名称，有大辩。"
+  ]
+}
