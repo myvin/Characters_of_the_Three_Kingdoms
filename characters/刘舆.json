@@ -1,0 +1,68 @@
+{
+  "name": "刘舆",
+  "courtesyName": null,
+  "pseudonym": null,
+  "aliase": [
+    {
+      "name": "刘方",
+      "desc": null
+    }
+  ],
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/刘舆.jpg",
+  "faction": "东汉",
+  "birthdate": null,
+  "birthplace": "东莱郡牟平县",
+  "birthplacePresentDay": "山东省烟台市福山区西北",
+  "deathdate": "192",
+  "deathplace": "兖州",
+  "deathplacePresentDay": "山东省西南部",
+  "tenure": null,
+  "position": ["侍中", "侍御史", "兖州刺史"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["汉灵帝", "汉献帝"],
+  "posthumousName": null,
+  "templeName": null,
+  "historicalBriefIIntroduction": "《续汉书》曰：繇父舆，一名方，山阳太守。岱、繇皆有隽才。",
+  "novelisticBriefIIntroduction": null,
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "刘本",
+          "desc": null
+        }
+      ],
+      "desc": null
+    },
+    "mother": null,
+    "brothers": {
+      "character": [
+        {
+          "name": "刘宠",
+          "desc": "齐孝王刘将闾之子牟平共侯刘渫的后代。"
+        }
+      ],
+      "desc": null
+    },
+    "sisters": null,
+    "spouse": null,
+    "sons": {
+      "character": [
+        {
+          "name": "刘繇",
+          "desc": "扬州牧，刘岱弟。"
+        },
+        {
+          "name": "刘岱",
+          "desc": "兖州刺史。"
+        }
+      ],
+      "desc": null
+    },
+    "daughters": null
+  },
+  "historicalEvaluations": null
+}
