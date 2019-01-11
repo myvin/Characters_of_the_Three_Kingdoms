@@ -1,0 +1,55 @@
+{
+  "name": "刘岱",
+  "courtesyName": "公山",
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": null,
+  "faction": "东汉",
+  "birthdate": null,
+  "birthplace": "东莱郡牟平县",
+  "birthplacePresentDay": "山东省烟台市福山区西北",
+  "deathdate": "192",
+  "deathplace": "兖州",
+  "deathplacePresentDay": "山东省西南部",
+  "tenure": null,
+  "position": ["侍中", "侍御史", "兖州刺史"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["汉灵帝", "汉献帝"],
+  "posthumousName": null,
+  "templeName": null,
+  "historicalBriefIIntroduction": "汉兖州刺史。初平元年，从袁绍起兵伐董卓。后与桥瑁借粮，桥瑁不借，刘岱怒而杀之，尽分其兵。后同王忠引兵五万，虚打曹公旗号，攻徐州。为张飞生擒，后为刘备释放。",
+  "novelisticBriefIIntroduction": "嘉靖本《三国志通俗演义》中，存在两个同名同字不同籍贯的刘岱，即兖州刺史东莱牟平人刘岱与司空长史沛人刘岱，所述有关两人的事迹混淆不清，前后矛盾。到了毛批《三国演义》，索性将东莱牟平刘岱之前被杀一事删除，进而把沛国刘岱之事系于其身上，成了兖州刺史刘岱一人的事。嘉靖本《三国志通俗演义》卷二《李傕郭汜杀樊稠》节写道：“青州黄巾又起，聚众百万，头目不等，将兖州牧刘岱杀讫。”后毛批《三国演义》删去了兖州牧刘岱被杀的叙述。初平元年刘岱讨伐董卓，刘岱时为十八路诸侯的第四镇，称其”孝悌仁慈，屈己待士“。后与桥瑁借粮，桥瑁不借，刘岱怒而杀之，尽收其兵。后来曹操取兖州，刘岱降于操，曹操用为偏将（依附曹操一事仅见毛批，不见嘉靖本）。后来，司空曹操命他为前军，同后军王忠引兵五万，虚打曹操旗号，攻打徐州。被张飞生擒，刘备将他与王忠释放。回许都后，被曹操黜罢爵禄。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "刘舆",
+          "desc": "又作刘方，东汉山阳太守。"
+        }
+      ],
+      "desc": null
+    },
+    "mother": null,
+    "brothers": {
+      "character": [
+        {
+          "name": "刘繇",
+          "desc": "扬州牧，刘岱弟。"
+        }
+      ],
+      "desc": null
+    },
+    "sisters": null,
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": [
+    "陶丘洪：“若明使君用公山于前，擢正礼于后，所谓御二龙于长涂，骋骐骥于千里，不亦可乎？”",
+    "《续汉书》：“岱、繇皆有隽才。”",
+    "《英雄记》：“岱孝悌仁恕，以虚己受人。”"
+  ]
+}

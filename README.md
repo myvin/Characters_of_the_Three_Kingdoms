@@ -299,7 +299,7 @@ gulp
       <td align="center" valign="middle">刘陶</td>
       <td align="center" valign="middle">刘陶</td>
       <td align="center" valign="middle">刘虞</td>
-      <td align="center" valign="middle"></td>
+      <td align="center" valign="middle">刘岱</td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
       <td align="center" valign="middle"></td>
