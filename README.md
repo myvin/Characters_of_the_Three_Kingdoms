@@ -1,4 +1,4 @@
-# Characters_of_the_Three_Kingdoms - 三国人物结构化数据
+# Characters of the Three Kingdoms - 三国人物结构化数据
 
 三国人物结构化数据
 
