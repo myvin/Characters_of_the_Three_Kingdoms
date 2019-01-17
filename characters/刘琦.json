@@ -1,0 +1,79 @@
+{
+  "name": "刘琦",
+  "courtesyName": null,
+  "pseudonym": null,
+  "aliase": null,
+  "infantName": null,
+  "gender": 1,
+  "avatar": "./images/avatars/刘琦.jpg",
+  "faction": "东汉",
+  "birthdate": null,
+  "birthplace": "山阳郡高平县",
+  "birthplacePresentDay": "山东微山",
+  "deathdate": "209",
+  "deathplace": null,
+  "deathplacePresentDay": null,
+  "tenure": null,
+  "position": ["江夏太守", "荆州刺史"],
+  "peerage": null,
+  "enfeoffment": null,
+  "monarch": ["汉献帝"],
+  "posthumousName": null,
+  "templeName": null,
+  "historicalBriefIIntroduction": "荆州牧刘表的长子，知道自己会被后母和蔡瑁陷害，故此特意去找诸葛亮请教救命之计诸葛亮告诉他晋文公流亡外国保住性命的事例，教他出奔。随后，江夏太守黄祖战死，刘琦立刻自告奋勇请求担任江夏太守之职，成功逃过了后母和蔡瑁的陷害，并为刘备建立避战之所。赤壁之战后，刘备向朝廷上表，保举刘琦为荆州刺史，并以他的名义收复了荆南四郡。同年，刘琦因病逝世。",
+  "novelisticBriefIIntroduction": "荆州牧刘表的长子，知道自己会被后母和蔡瑁陷害，故此特意去找诸葛亮请教救命之计诸葛亮告诉他晋文公流亡外国保住性命的事例，教他出奔。随后，江夏太守黄祖战死，刘琦立刻自告奋勇请求担任江夏太守之职，成功逃过了后母和蔡瑁的陷害，并为刘备建立避战之所。赤壁之战后，刘备向朝廷上表，保举刘琦为荆州刺史，并以他的名义收复了荆南四郡。同年，刘琦因病逝世。",
+  "family": {
+    "father": {
+      "character": [
+        {
+          "name": "刘表",
+          "desc": "镇南将军、荆州牧，与当地七贤人号称“江夏八俊”。"
+        }
+      ],
+      "desc": null
+    },
+    "mother": {
+      "character": [
+        {
+          "name": "陈氏",
+          "desc": "刘琦生母。"
+        },
+        {
+          "name": "蔡夫人",
+          "desc": "刘琦后母。"
+        }
+      ],
+      "desc": null
+    },
+    "brothers": {
+      "character": [
+        {
+          "name": "刘琮",
+          "desc": "刘琦二弟，刘表死后继承刘表官爵，当曹操大军南下之时，他在蔡瑁等人的劝说之下举荆州而降，被曹操封为青州刺史。"
+        },
+        {
+          "name": "刘修",
+          "desc": "刘琦三弟，字季绪，刘表三子。其兄刘琮降曹操后，即陪同上任，官至东安郡太守，著诗、赋、颂六篇。"
+        }
+      ],
+      "desc": null
+    },
+    "sisters": {
+      "character": [
+        {
+          "name": "刘氏",
+          "desc": "嫁王粲族兄王觊。"
+        }
+      ],
+      "desc": null
+    },
+    "spouse": null,
+    "sons": null,
+    "daughters": null
+  },
+  "historicalEvaluations": [
+    "曹操：“生子当如孙仲谋，刘景升儿子若豚犬耳！”（《三国志‧吴书》）",
+    "鱼豢：“琦性慈孝。”（《典略》）",
+    "蔡东藩：“曹操谓生子至如孙仲谋，若刘景升诸儿，与豚犬等，原非虚言。”（《后汉演义》）"
+  ]
+}
